@@ -1,0 +1,9 @@
+Added Component: Designator=LS(CUI_CEM-1206S)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CEM-1206S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CEM-1206S/CUI%20Devices/view-part/590537/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component LS CEM-1206S

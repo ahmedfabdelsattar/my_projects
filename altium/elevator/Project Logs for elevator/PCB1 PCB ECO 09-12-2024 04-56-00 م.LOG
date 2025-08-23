@@ -1,0 +1,9 @@
+Added Component: Designator=D(LEDRD254W50D305H520P)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TT Electronics/Optek"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "OVLAW4CB7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial Optek"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/OVLAW4CB7/TT%20Electronics/Optek%20Technology/view-part/328075/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component D OVLAW4CB7

@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=RST Pin=C?-1
+Removed Pin From Net: NetName=VCC Pin=C?-2
+Removed Pin From Net: NetName=VCC Pin=D8-1
+Removed Pin From Net: NetName=GND Pin=D8-2
+Removed Pin From Net: NetName=D_P Pin=D13-2
+Removed Pin From Net: NetName=GND Pin=J?-4
+Removed Pin From Net: NetName=GND Pin=J?-10
+Removed Pin From Net: NetName=VCC Pin=R?-1
+Removed Pin From Net: NetName=VCC Pin=S?-1
+Removed Pin From Net: NetName=RST Pin=S?-2
+Removed Member From Class: ClassName=Sheet1 Member=D8
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Added Component: Designator=R5(Resistor)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C2912641"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Milliohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "HoCS1206-470mR-1%-TCR200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Component: Designator=R6(Resistor)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C2912641"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Milliohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "HoCS1206-470mR-1%-TCR200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=C?-1
+Added Pin To Net: NetName=RST Pin=C?-2
+Added Pin To Net: NetName=D_P Pin=D13-1
+Added Pin To Net: NetName=GND Pin=D13-2
+Added Pin To Net: NetName=GND Pin=D14-1
+Added Pin To Net: NetName=RST Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=RST Pin=S?-1
+Added Pin To Net: NetName=VCC Pin=S?-2
+Added Pin To Net: NetName=D_N Pin=U1-44
+Added Pin To Net: NetName=D_P Pin=U1-45
+Added Pin To Net: NetName=NetJ?_4 Pin=J?-4
+Added Pin To Net: NetName=NetJ?_4 Pin=R5-2
+Added Net: Name=NetJ?_4
+Added Pin To Net: NetName=NetJ?_10 Pin=J?-10
+Added Pin To Net: NetName=NetJ?_10 Pin=R6-2
+Added Net: Name=NetJ?_10
+Added Member To Class: ClassName=Sheet1 Member=Component R5 5.1K
+Added Member To Class: ClassName=Sheet1 Member=Component R6 5.1K

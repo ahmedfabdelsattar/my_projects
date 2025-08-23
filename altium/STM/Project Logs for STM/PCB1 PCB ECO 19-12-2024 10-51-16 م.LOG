@@ -1,0 +1,6 @@
+Added Component: Designator=U?(TSQFP50P1270X1270X160-64N)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C74524"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "STM32F401RCT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Class: Name=Sheet1

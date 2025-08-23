@@ -1,0 +1,20 @@
+Added Component: Designator=C?(CAPACITOR)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C76960"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "GRM1555C1H220JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Component: Designator=R?(Resistor)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C2912641"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Milliohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "HoCS1206-470mR-1%-TCR200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=VCC Pin=S?-1
+Added Pin To Net: NetName=RST Pin=C?-1
+Added Pin To Net: NetName=RST Pin=S?-2
+Added Pin To Net: NetName=RST Pin=U1-7
+Added Net: Name=RST
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10K

@@ -1,0 +1,17 @@
+Added Component: Designator=J?(DIP32)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C165948"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Korean Hroparts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "TYPE-C-31-M-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=NetC8_2 Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Pin To Net: NetName=D- Pin=J?-5
+Added Pin To Net: NetName=D+ Pin=J?-6
+Added Pin To Net: NetName=D- Pin=J?-7
+Added Pin To Net: NetName=D+ Pin=J?-8
+Added Pin To Net: NetName=A9 Pin=J?-9
+Added Pin To Net: NetName=GND Pin=J?-10
+Added Pin To Net: NetName=NetC8_2 Pin=J?-11
+Added Pin To Net: NetName=GND Pin=J?-12
+Added Member To Class: ClassName=Sheet1 Member=Component J? USB

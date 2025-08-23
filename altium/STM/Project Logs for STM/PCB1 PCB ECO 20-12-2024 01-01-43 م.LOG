@@ -1,0 +1,6 @@
+Added Component: Designator=D?(DIODE)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C260336"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SMC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "RS1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component D? DIODE

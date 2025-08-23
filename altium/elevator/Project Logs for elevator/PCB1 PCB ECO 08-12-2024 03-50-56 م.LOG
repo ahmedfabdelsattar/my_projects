@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=Sheet1 Member=U1
+Added Component: Designator=U?(DIP40 - duplicate2)
+Added Pin To Net: NetName=NetU2_16 Pin=U2-16
+Added Net: Name=NetU2_16
+Added Member To Class: ClassName=Sheet1 Member=Component U? ATMEGA

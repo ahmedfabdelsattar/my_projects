@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=IN1 Pin=U1-2
+Change Component Description : Designator=S1 Old Description= New Description=Tactile Switches MINI PUSH BUTTON SWITCH 2-PIN QTY. 4
+Change Component Description : Designator=S2 Old Description= New Description=Tactile Switches MINI PUSH BUTTON SWITCH 2-PIN QTY. 4
+Change Component Description : Designator=S3 Old Description= New Description=Tactile Switches MINI PUSH BUTTON SWITCH 2-PIN QTY. 4
+Change Component Description : Designator=S4 Old Description= New Description=Tactile Switches MINI PUSH BUTTON SWITCH 2-PIN QTY. 4
+Change Component Description : Designator=S5 Old Description= New Description=Tactile Switches MINI PUSH BUTTON SWITCH 2-PIN QTY. 4
+Added Pin To Net: NetName=Servo Pin=U1-15
+Added Pin To Net: NetName=IN1 Pin=U1-18

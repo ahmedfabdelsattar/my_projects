@@ -1,0 +1,7 @@
+Added Component: Designator=Y?(CRYSTAL)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C6611805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ECS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "ECS-160-20-5PVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component D? TVS DIODE
+Added Member To Class: ClassName=Sheet1 Member=Component Y? CRYSTAL

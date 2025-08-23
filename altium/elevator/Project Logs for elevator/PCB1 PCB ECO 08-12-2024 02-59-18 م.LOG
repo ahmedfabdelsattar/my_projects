@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=Sheet1 Member=*
+Change Component Footprint: Designator=U? Old Footprint=DIP254P1524X482-40 New Footprint=DIP40 - duplicate2
+Change Component Comment : Designator=U? Old Comment=ATMEGA16A-PU New Comment=ATMEGA
+Change component parameters: Designator = "U?" ("U?"); Footprint = "DIP254P1524X482-40"; UniqueID = "\VNVGNOUI" ("\VNVGNOUI")

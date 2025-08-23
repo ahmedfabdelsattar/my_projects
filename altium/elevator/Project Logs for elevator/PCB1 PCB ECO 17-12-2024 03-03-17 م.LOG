@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=+5 Pin=T2-1
+Removed Pin From Net: NetName=GND Pin=T2-2
+Removed Pin From Net: NetName=TRIG Pin=T3-1
+Removed Pin From Net: NetName=ECHO Pin=T3-2
+Removed Member From Class: ClassName=Sheet1 Member=T2
+Removed Member From Class: ClassName=Sheet1 Member=T3
+Added Component: Designator=S?(DIP8)
+Added Pin To Net: NetName=GND Pin=S?-1
+Added Pin To Net: NetName=ECHO Pin=S?-2
+Added Pin To Net: NetName=TRIG Pin=S?-3
+Added Pin To Net: NetName=+5 Pin=S?-4
+Added Member To Class: ClassName=Sheet1 Member=Component S? ultra_sonic

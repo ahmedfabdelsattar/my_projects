@@ -1,0 +1,11 @@
+Added Component: Designator=SEG(7seg)
+Added Pin To Net: NetName=NetR9_1 Pin=SEG-1
+Added Pin To Net: NetName=NetR7_1 Pin=SEG-2
+Added Pin To Net: NetName=+5 Pin=SEG-3
+Added Pin To Net: NetName=NetR5_1 Pin=SEG-4
+Added Pin To Net: NetName=NetR4_1 Pin=SEG-5
+Added Pin To Net: NetName=NetR3_2 Pin=SEG-7
+Added Pin To Net: NetName=+5 Pin=SEG-8
+Added Pin To Net: NetName=NetR6_2 Pin=SEG-9
+Added Pin To Net: NetName=NetR8_2 Pin=SEG-10
+Added Member To Class: ClassName=Sheet1 Member=Component SEG 7-SEG

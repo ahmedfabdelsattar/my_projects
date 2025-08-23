@@ -1,0 +1,7 @@
+Added Component: Designator=U1(DIP40 - duplicate3)
+Added Component: Designator=U2(DIP16 - duplicate)
+Added Pin To Net: NetName=NetU1_1 Pin=U1-1
+Added Pin To Net: NetName=NetU1_1 Pin=U2-16
+Added Net: Name=NetU1_1
+Added Member To Class: ClassName=Sheet1 Member=Component U1 ATMEGA
+Added Member To Class: ClassName=Sheet1 Member=Component U2 L293D

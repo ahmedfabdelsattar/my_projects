@@ -1,0 +1,6 @@
+Added Component: Designator=J2(DIP32)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C165948"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Korean Hroparts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "TYPE-C-31-M-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component J2 USB

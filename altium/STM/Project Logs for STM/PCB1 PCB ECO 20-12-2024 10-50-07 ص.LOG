@@ -1,0 +1,7 @@
+Added Component: Designator=J?(TERMINAL BLOCK)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C592983"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity 282834-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "282834-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component J? terminal block
+Added Member To Class: ClassName=Sheet1 Member=Component U? STM_CHIP

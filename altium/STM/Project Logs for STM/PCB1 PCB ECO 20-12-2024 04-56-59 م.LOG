@@ -1,0 +1,47 @@
+Added Component: Designator=D7(TVS DIODE)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C2929617"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "PESD0603-240"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Component: Designator=D8(TVS DIODE)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C2929617"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "PESD0603-240"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Component: Designator=D9(TVS DIODE)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C2929617"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "PESD0603-240"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Component: Designator=D10(TVS DIODE)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C2929617"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "PESD0603-240"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Component: Designator=D12(TVS DIODE)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C2929617"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "PESD0603-240"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D7-1
+Added Pin To Net: NetName=VCC Pin=D7-2
+Added Pin To Net: NetName=VCC Pin=D8-1
+Added Pin To Net: NetName=GND Pin=D8-2
+Added Pin To Net: NetName=VCC Pin=D9-1
+Added Pin To Net: NetName=GND Pin=D9-2
+Added Pin To Net: NetName=GND Pin=D10-1
+Added Pin To Net: NetName=VCC Pin=D10-2
+Added Pin To Net: NetName=GND Pin=D12-1
+Added Pin To Net: NetName=VCC Pin=D12-2
+Add Pin To Net: Unknown Pin: Pin J1-42
+Add Pin To Net: Unknown Pin: Pin J1-43
+Add Pin To Net: Unknown Pin: Pin J2-42
+Add Pin To Net: Unknown Pin: Pin J2-43
+Add Pin To Net: Unknown Pin: Pin J3-44
+Add Pin To Net: Unknown Pin: Pin J3-45
+Add Pin To Net: Unknown Pin: Pin J?-1
+Added Member To Class: ClassName=Sheet1 Member=Component D7 TVS DIODE
+Added Member To Class: ClassName=Sheet1 Member=Component D8 TVS DIODE
+Added Member To Class: ClassName=Sheet1 Member=Component D9 TVS DIODE
+Added Member To Class: ClassName=Sheet1 Member=Component D10 TVS DIODE
+Added Member To Class: ClassName=Sheet1 Member=Component D12 TVS DIODE

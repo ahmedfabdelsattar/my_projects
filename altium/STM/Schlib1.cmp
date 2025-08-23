@@ -1,0 +1,76 @@
+Component Name : STM_CHIP
+
+Part Count : 2
+
+Part : U?
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : U?
+     Pins - (Normal) : 64
+          VDD            64             Passive
+          GND            63             Passive
+          PB9            62             Passive
+          PB8            61             Passive
+          BOOT           60             Passive
+          PB7            59             Passive
+          PB6            58             Passive
+          PB5            57             Passive
+          PB4            56             Passive
+          PB3            55             Passive
+          PD2            54             Passive
+          PC12           53             Passive
+          PC11           52             Passive
+          PC10           51             Passive
+          PA15           50             Passive
+          PA14           49             Passive
+          PA2            16             Passive
+          PA1            15             Passive
+          PA0            14             Passive
+          VDDA/VREF+     13             Passive
+          VSSA/VREF-     12             Passive
+          PC3            11             Passive
+          PC2            10             Passive
+          PC1            9              Passive
+          PC0            8              Passive
+          NRST           7              Passive
+          OSC_OUT        6              Passive
+          OSC_IN         5              Passive
+          PC15           4              Passive
+          PC14           3              Passive
+          PC13           2              Passive
+          VBAT           1              Passive
+          VDD            32             Passive
+          GND            31             Passive
+          VCAP_1         30             Passive
+          PB10           29             Passive
+          PB2            28             Passive
+          PB1            27             Passive
+          PB0            26             Passive
+          PC5            25             Passive
+          PC4            24             Passive
+          PA7            23             Passive
+          PA6            22             Passive
+          PA5            21             Passive
+          PA4            20             Passive
+          VDD            19             Passive
+          GND            18             Passive
+          PA3            17             Passive
+          VDD            48             Passive
+          GND            47             Passive
+          PA13           46             Passive
+          PA12           45             Passive
+          PA11           44             Passive
+          PA10           43             Passive
+          PA9            42             Passive
+          PA8            41             Passive
+          PC9            40             Passive
+          PC8            39             Passive
+          PC7            38             Passive
+          PC6            37             Passive
+          PB15           36             Passive
+          PB14           35             Passive
+          PB13           34             Passive
+          PB12           33             Passive
+          Hidden Pins : 
+

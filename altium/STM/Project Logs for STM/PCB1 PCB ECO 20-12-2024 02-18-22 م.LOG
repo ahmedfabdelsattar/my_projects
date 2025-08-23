@@ -1,0 +1,7 @@
+Added Component: Designator=R?(Resistor)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C2912641"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Milliohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "HoCS1206-470mR-1%-TCR200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component D? TVS DIODE
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1K

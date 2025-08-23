@@ -1,0 +1,8 @@
+Added Component: Designator=T?(2 PIN)
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 4"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found DIP794W45P254L1969H508Q16
+Added Member To Class: ClassName=Sheet1 Member=Component T? terminal block
+Added Member To Class: ClassName=Sheet1 Member=Component U? CD4511BE

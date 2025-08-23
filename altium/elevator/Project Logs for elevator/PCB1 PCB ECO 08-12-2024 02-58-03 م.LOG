@@ -1,0 +1,10 @@
+Added Component: Designator=*(DIP40 - duplicate2)
+Added Component: Designator=U?(DIP254P1524X482-40)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ATMEGA16A-PU/Microchip/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ATMEGA16A-PU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DIP-40 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ATMEGA16A-PU/Microchip/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component * Component_1
+Added Member To Class: ClassName=Sheet1 Member=Component U? ATMEGA16A-PU

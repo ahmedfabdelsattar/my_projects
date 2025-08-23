@@ -1,0 +1,7 @@
+Added Component: Designator=J?(PLUGABLE)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C42371572"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "KF2024-2.54-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPLLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component J? PLUGABLE BLOCK
+Added Member To Class: ClassName=Sheet1 Member=Component U1 STM_CHIP

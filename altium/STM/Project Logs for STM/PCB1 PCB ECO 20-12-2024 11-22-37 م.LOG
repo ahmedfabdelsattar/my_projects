@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetC10_2 Pin=J3-1
+Added Component: Designator=F?(FUSE)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C3159772"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bel Fuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "0679L1000-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin F?-15
+Added Pin To Net: NetName=NetF?_14 Pin=J3-1
+Added Net: Name=NetF?_14
+Added Member To Class: ClassName=Sheet1 Member=Component F? FUSE
+Added Member To Class: ClassName=Sheet1 Member=Component U1 STM_CHIP

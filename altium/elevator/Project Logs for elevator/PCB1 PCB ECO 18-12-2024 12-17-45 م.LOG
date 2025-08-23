@@ -1,0 +1,12 @@
+Added Component: Designator=Q(TO92-)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BC550CBU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-92 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BC550CBU/ON%20Semiconductor/view-part/1852525/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Q-1
+Added Pin To Net: NetName=NetQ_2 Pin=Q-2
+Added Pin To Net: NetName=NetLS_N Pin=Q-3
+Added Member To Class: ClassName=Sheet1 Member=Component Q BC550CBU

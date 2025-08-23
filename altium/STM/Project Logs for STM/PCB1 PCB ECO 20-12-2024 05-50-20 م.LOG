@@ -1,0 +1,29 @@
+Added Component: Designator=D13(TVS DIODE)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C2929617"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "PESD0603-240"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Component: Designator=D14(TVS DIODE)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C2929617"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "PESD0603-240"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Component: Designator=S?(BUTTON)
+Added Pin To Net: NetName=D_N Pin=D14-2
+Added Pin To Net: NetName=D_N Pin=J?-5
+Added Pin To Net: NetName=D_N Pin=J?-7
+Added Net: Name=D_N
+Added Pin To Net: NetName=D_P Pin=D13-2
+Added Pin To Net: NetName=D_P Pin=J?-6
+Added Pin To Net: NetName=D_P Pin=J?-8
+Added Net: Name=D_P
+Added Pin To Net: NetName=NetD13_1 Pin=D13-1
+Added Pin To Net: NetName=NetD13_1 Pin=U1-45
+Added Net: Name=NetD13_1
+Added Pin To Net: NetName=NetD14_1 Pin=D14-1
+Added Pin To Net: NetName=NetD14_1 Pin=U1-44
+Added Net: Name=NetD14_1
+Added Differential Pair: Name=D
+Added Member To Class: ClassName=Sheet1 Member=Component D13 TVS DIODE
+Added Member To Class: ClassName=Sheet1 Member=Component D14 TVS DIODE
+Added Member To Class: ClassName=Sheet1 Member=Component S? BUTTON

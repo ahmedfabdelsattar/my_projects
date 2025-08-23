@@ -1,0 +1,9 @@
+Added Component: Designator=J3(PLUGABLE)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C42371572"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "KF2024-2.54-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPLLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC10_2 Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Add Pin To Net: Unknown Pin: Pin J?-1
+Added Member To Class: ClassName=Sheet1 Member=Component J3 PLUGABLE BLOCK

@@ -1,0 +1,12 @@
+Added Component: Designator=C?(CAPACITOR)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C76960"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "GRM1555C1H220JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Component: Designator=F?(FUSE)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C3159772"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bel Fuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "0679L1000-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component C? 22pF
+Added Member To Class: ClassName=Sheet1 Member=Component F? FUSE

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=IN2 Pin=U1-3
+Removed Pin From Net: NetName=interrupt action Pin=U1-13
+Removed Pin From Net: NetName=EN Pin=U1-14
+Removed Pin From Net: NetName=Servo Pin=U1-15
+Removed Pin From Net: NetName=TRIG Pin=U1-16
+Removed Pin From Net: NetName=ECHO Pin=U1-17
+Added Pin To Net: NetName=ECHO Pin=U1-13
+Added Pin To Net: NetName=TRIG Pin=U1-14
+Added Pin To Net: NetName=EN Pin=U1-15
+Added Pin To Net: NetName=Servo Pin=U1-16
+Added Pin To Net: NetName=interrupt action Pin=U1-17
+Added Pin To Net: NetName=IN2 Pin=U1-19

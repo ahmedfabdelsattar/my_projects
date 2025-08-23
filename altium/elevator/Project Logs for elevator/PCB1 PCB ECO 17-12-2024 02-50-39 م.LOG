@@ -1,0 +1,20 @@
+Added Component: Designator=T2(2 PIN)
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 4"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=T3(2 PIN)
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 4"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=T2-1
+Added Pin To Net: NetName=GND Pin=T2-2
+Added Pin To Net: NetName=ECHO Pin=T3-2
+Added Pin To Net: NetName=ECHO Pin=U1-17
+Added Net: Name=ECHO
+Added Pin To Net: NetName=TRIG Pin=T3-1
+Added Pin To Net: NetName=TRIG Pin=U1-16
+Added Net: Name=TRIG
+Added Member To Class: ClassName=Sheet1 Member=Component T2 terminal block
+Added Member To Class: ClassName=Sheet1 Member=Component T3 terminal block

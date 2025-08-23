@@ -1,0 +1,292 @@
+Removed Member From Class: ClassName=Sheet1 Member=C?
+Removed Member From Class: ClassName=Sheet1 Member=D?
+Removed Member From Class: ClassName=Sheet1 Member=F?
+Removed Member From Class: ClassName=Sheet1 Member=R?
+Removed Member From Class: ClassName=Sheet1 Member=U?
+Removed Member From Class: ClassName=Sheet1 Member=Y?
+Change Component Footprint: Designator=J2 Old Footprint=DIP32 New Footprint=TERMINAL BLOCK
+Change Component Footprint: Designator=J? Old Footprint=PLUGABLE New Footprint=DIP32
+Change Component Footprint: Designator=U2 Old Footprint=SOIC127P600X170-8N New Footprint=REGULATOR
+Change Component Comment : Designator=U2 Old Comment=DRV8871 New Comment=REGULATOR
+Change Component Comment : Designator=J? Old Comment=PLUGABLE BLOCK New Comment=USB
+Change Component Comment : Designator=J2 Old Comment=USB New Comment=terminal block
+Change component parameters: Designator = "J2" ("J2"); Footprint = "DIP32"; UniqueID = "\DBQOSIOY" ("\DBQOSIOY")
+Change component parameters (AddParameter): Name = "LCSC Part"; Value = "C592983"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity 282834-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = "282834-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J?" ("J?"); Footprint = "PLUGABLE"; UniqueID = "\IXGTHABW" ("\IXGTHABW")
+Change component parameters (AddParameter): Name = "LCSC Part"; Value = "C165948"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Korean Hroparts"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = "TYPE-C-31-M-12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2" ("U2"); Footprint = "SOIC127P600X170-8N"; UniqueID = "\VKUDILZN" ("\VKUDILZN")
+Change component parameters (AddParameter): Name = "LCSC Part"; Value = "C7270711"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Recom Power"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = "R-78B3.3-1.0L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Component: Designator=C1(CAPACITOR)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C76960"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "GRM1555C1H220JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPACITOR)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C76960"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "GRM1555C1H220JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPACITOR)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C76960"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "GRM1555C1H220JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPACITOR)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C76960"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "GRM1555C1H220JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPACITOR)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C76960"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "GRM1555C1H220JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPACITOR)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C76960"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "GRM1555C1H220JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAPACITOR)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C76960"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "GRM1555C1H220JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAPACITOR)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C76960"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "GRM1555C1H220JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAPACITOR)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C76960"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "GRM1555C1H220JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAPACITOR)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C76960"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "GRM1555C1H220JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAPACITOR)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C76960"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "GRM1555C1H220JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Component: Designator=D1(DIODE)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C260336"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SMC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "RS1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Component: Designator=D2(DIODE)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C260336"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SMC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "RS1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Component: Designator=D3(DIODE)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C260336"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SMC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "RS1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Component: Designator=D4(DIODE)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C260336"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SMC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "RS1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Component: Designator=D5(DIODE)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C260336"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SMC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "RS1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found DIOC1608X06N
+Add Component: Footprint Not Found DIOC1608X06N
+Add Component: Footprint Not Found DIOC1608X06N
+Add Component: Footprint Not Found DIOC1608X06N
+Added Component: Designator=J?(PLUGABLE)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C42371572"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "KF2024-2.54-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPLLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Component: Designator=R1(Resistor)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C2912641"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Milliohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "HoCS1206-470mR-1%-TCR200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Component: Designator=R2(Resistor)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C2912641"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Milliohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "HoCS1206-470mR-1%-TCR200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Component: Designator=R3(Resistor)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C2912641"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Milliohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "HoCS1206-470mR-1%-TCR200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOIC127P600X170-8N)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C701805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "DRV8871DDARQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Component: Designator=U4(SOIC127P600X170-8N)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C701805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "DRV8871DDARQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Component: Designator=Y(CRYSTAL)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C6611805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ECS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "ECS-160-20-5PVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=D1-2
+Added Pin To Net: NetName=+3.3 Pin=U1-1
+Added Pin To Net: NetName=+3.3 Pin=U1-13
+Added Pin To Net: NetName=+3.3 Pin=U1-19
+Added Pin To Net: NetName=+3.3 Pin=U1-32
+Added Pin To Net: NetName=+3.3 Pin=U1-48
+Added Pin To Net: NetName=+3.3 Pin=U1-64
+Added Net: Name=+3.3
+Added Pin To Net: NetName=A9 Pin=J?-3
+Added Pin To Net: NetName=A9 Pin=U1-42
+Added Net: Name=A9
+Added Pin To Net: NetName=A10 Pin=J?-14
+Added Pin To Net: NetName=A10 Pin=U1-43
+Added Net: Name=A10
+Added Pin To Net: NetName=D+ Pin=J?-5
+Added Pin To Net: NetName=D+ Pin=J?-12
+Added Pin To Net: NetName=D+ Pin=U1-45
+Added Net: Name=D+
+Added Pin To Net: NetName=D- Pin=J?-4
+Added Pin To Net: NetName=D- Pin=J?-13
+Added Pin To Net: NetName=D- Pin=U1-44
+Added Net: Name=D-
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=J?-6
+Added Pin To Net: NetName=GND Pin=J?-8
+Added Pin To Net: NetName=GND Pin=J?-8
+Added Pin To Net: NetName=GND Pin=J?-11
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=GND Pin=U1-18
+Added Pin To Net: NetName=GND Pin=U1-31
+Added Pin To Net: NetName=GND Pin=U1-47
+Added Pin To Net: NetName=GND Pin=U1-63
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-7
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-7
+Added Net: Name=GND
+Added Pin To Net: NetName=M1IN1 Pin=U1-55
+Added Pin To Net: NetName=M1IN1 Pin=U3-3
+Added Net: Name=M1IN1
+Added Pin To Net: NetName=M1IN2 Pin=U1-56
+Added Pin To Net: NetName=M1IN2 Pin=U3-2
+Added Net: Name=M1IN2
+Added Pin To Net: NetName=M1OUT1 Pin=U3-6
+Added Net: Name=M1OUT1
+Added Net: Name=M1OUT2
+Added Pin To Net: NetName=M2IN1 Pin=U1-57
+Added Pin To Net: NetName=M2IN1 Pin=U4-3
+Added Net: Name=M2IN1
+Added Pin To Net: NetName=M2IN2 Pin=U1-58
+Added Pin To Net: NetName=M2IN2 Pin=U4-2
+Added Net: Name=M2IN2
+Added Pin To Net: NetName=M2OUT1 Pin=U4-6
+Added Net: Name=M2OUT1
+Added Net: Name=M2OUT2
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-5
+Added Pin To Net: NetName=NetC1_1 Pin=Y-2
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=U1-6
+Added Pin To Net: NetName=NetC2_1 Pin=Y-1
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=C5-2
+Added Pin To Net: NetName=NetC4_2 Pin=D2-1
+Added Pin To Net: NetName=NetC4_2 Pin=U3-5
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=C7-2
+Added Pin To Net: NetName=NetC6_2 Pin=D3-2
+Added Pin To Net: NetName=NetC6_2 Pin=U4-5
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=C9-2
+Added Pin To Net: NetName=NetC8_2 Pin=D4-2
+Added Pin To Net: NetName=NetC8_2 Pin=J?-2
+Added Pin To Net: NetName=NetC8_2 Pin=J?-7
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=C11-2
+Added Pin To Net: NetName=NetC10_2 Pin=D5-2
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=U2-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-60
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U3-4
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U4-4
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=VCC Pin=D2-2
+Added Pin To Net: NetName=VCC Pin=D3-1
+Added Pin To Net: NetName=VCC Pin=D4-1
+Added Pin To Net: NetName=VCC Pin=D5-1
+Added Pin To Net: NetName=VCC Pin=U2-1
+Added Net: Name=VCC
+Added Member To Class: ClassName=Sheet1 Member=Component C1 22pF
+Added Member To Class: ClassName=Sheet1 Member=Component C2 22pF
+Added Member To Class: ClassName=Sheet1 Member=Component C3 10uF
+Added Member To Class: ClassName=Sheet1 Member=Component C4 4.7uF
+Added Member To Class: ClassName=Sheet1 Member=Component C5 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C6 4.7uF
+Added Member To Class: ClassName=Sheet1 Member=Component C7 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C8 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C9 4.7uF
+Added Member To Class: ClassName=Sheet1 Member=Component C10 4.7uF
+Added Member To Class: ClassName=Sheet1 Member=Component C11 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component D1 DIODE
+Added Member To Class: ClassName=Sheet1 Member=Component D2 DIODE
+Added Member To Class: ClassName=Sheet1 Member=Component D3 DIODE
+Added Member To Class: ClassName=Sheet1 Member=Component D4 DIODE
+Added Member To Class: ClassName=Sheet1 Member=Component D5 DIODE
+Add Class Member: Failed to add class member : Component D6 TVS DIODE
+Add Class Member: Failed to add class member : Component D7 TVS DIODE
+Add Class Member: Failed to add class member : Component D8 TVS DIODE
+Add Class Member: Failed to add class member : Component D9 TVS DIODE
+Added Member To Class: ClassName=Sheet1 Member=Component J? PLUGABLE BLOCK
+Added Member To Class: ClassName=Sheet1 Member=Component R1 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R2 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R3 10K
+Added Member To Class: ClassName=Sheet1 Member=Component U3 DRV8871
+Added Member To Class: ClassName=Sheet1 Member=Component U4 DRV8871
+Added Member To Class: ClassName=Sheet1 Member=Component Y CRYSTAL
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2

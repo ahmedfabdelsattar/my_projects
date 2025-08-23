@@ -1,0 +1,17 @@
+Added Component: Designator=U3(DIP794W45P254L1969H508Q16)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CD4511BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetL?_7 Pin=L?-7
+Added Pin To Net: NetName=NetL?_7 Pin=U3-2
+Added Net: Name=NetL?_7
+Added Pin To Net: NetName=NetL?_9 Pin=L?-9
+Added Pin To Net: NetName=NetL?_9 Pin=U3-1
+Added Net: Name=NetL?_9
+Added Pin To Net: NetName=NetS?_1 Pin=S?-1
+Added Pin To Net: NetName=NetS?_1 Pin=U3-8
+Added Net: Name=NetS?_1
+Added Member To Class: ClassName=Sheet1 Member=Component U3 CD4511BE

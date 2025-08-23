@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=S NewDesignator=M
+Added Component: Designator=*(7SEG)
+Added Component: Designator=L?(DIP10)
+Added Member To Class: ClassName=Sheet1 Member=Component * 7-SEG
+Added Member To Class: ClassName=Sheet1 Member=Component L? TTL

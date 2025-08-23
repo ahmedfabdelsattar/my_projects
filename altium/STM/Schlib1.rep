@@ -1,0 +1,20 @@
+CSV text has been written to file : Schlib1.csv
+
+Library Component Count : 13
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+
+CAPACITOR           50V 22pF C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+CRYSTAL             16MHz 20pF ±30ppm ±50ppm HC-49S-SMD Crystals ROHS
+DIODE               1A Independent Type 1.3V@1A 400V SMA(DO-214AC) Diodes - General Purpose ROHS
+DRV8871             3.6A Brushed DC Motor 6.8V~45V PWM SOIC-8-EP Motor Driver ICs ROHS
+FUSE                1A 125V SMD,6.1x2.5mm Disposable fuses ROHS
+PLUGABLE BLOCK      P=2.54mm Pluggable System Terminal Block ROHS
+REGULATOR           SIP,17.5x11.5mm Isolated Power Modules ROHS
+RESISTOR            Ceramic resistor ±1% 1206 Chip Resistor - Surface Mount ROHS
+STM_CHIP            ARM-M4 84MHz LQFP-64(10x10) Microcontrollers (MCU/MPU/SOC) ROHS
+TVS DIODE           45V 0603 ESD and Surge Protection (TVS/ESD) ROHS
+USB                 5A 1 16P Mother Type-C SMD USB Connectors ROHS
+terminal block      Plugin Screw Terminal Blocks ROHS

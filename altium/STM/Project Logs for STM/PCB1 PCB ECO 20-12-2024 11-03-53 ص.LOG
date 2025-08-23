@@ -1,0 +1,14 @@
+Change Footprint: Footprint Not Found DIP4
+Change Component Comment : Designator=J? Old Comment=terminal block New Comment=PLUGABLE BLOCK
+Change component parameters: Designator = "J?" ("J?"); Footprint = "TERMINAL BLOCK"; UniqueID = "\QSUONFGU" ("\QSUONFGU")
+Change component parameters (AddParameter): Name = "LCSC Part"; Value = "C42371572"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part"; Value = "KF2024-2.54-2P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPLLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Component: Designator=J?(TERMINAL BLOCK)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C592983"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity 282834-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "282834-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component J? terminal block
+Added Member To Class: ClassName=Sheet1 Member=Component U? STM_CHIP

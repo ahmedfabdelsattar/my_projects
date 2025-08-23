@@ -1,0 +1,7 @@
+Added Component: Designator=U?(SOIC127P600X170-8N)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C701805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "DRV8871DDARQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component U? STM_CHIP
+Added Member To Class: ClassName=Sheet1 Member=Component U? DRV8871

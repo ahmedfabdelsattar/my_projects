@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=U? Old Footprint=DIP40 - duplicate2 New Footprint=DIP40 - duplicate3
+Added Pin To Net: NetName=NetU2_16 Pin=U?-11

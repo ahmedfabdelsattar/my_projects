@@ -1,0 +1,7 @@
+Added Component: Designator=U?(REGULATOR)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C7270711"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Recom Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "R-78B3.3-1.0L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component D? TVS DIODE
+Added Member To Class: ClassName=Sheet1 Member=Component U? REGULATOR

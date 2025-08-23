@@ -1,0 +1,6 @@
+Added Component: Designator=D?(DIOC1608X06N)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C2929617"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "PESD0603-240"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component D? TVS DIODE

@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=VCC Pin=C3-1
+Removed Pin From Net: NetName=VCC Pin=U2-1
+Added Component: Designator=C12(CAPACITOR)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C76960"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "GRM1555C1H220JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Component: Designator=C13(CAPACITOR)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C76960"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "GRM1555C1H220JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found DIOC1608X06N
+Add Component: Footprint Not Found DIOC1608X06N
+Add Component: Footprint Not Found DIOC1608X06N
+Add Component: Footprint Not Found DIOC1608X06N
+Add Component: Footprint Not Found DIOC1608X06N
+Added Component: Designator=D11(DIODE)
+Add component (AddParameter): Name = "LCSC Part"; Value = "C260336"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SMC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part"; Value = "RS1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "LCSC"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found DIOC1608X06N
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Add Pin To Net: Unknown Pin: Pin D8-1
+Add Pin To Net: Unknown Pin: Pin D8-2
+Add Pin To Net: Unknown Pin: Pin D9-1
+Add Pin To Net: Unknown Pin: Pin D9-2
+Add Pin To Net: Unknown Pin: Pin D10-1
+Add Pin To Net: Unknown Pin: Pin D10-2
+Added Pin To Net: NetName=VCC Pin=D11-1
+Add Pin To Net: Unknown Pin: Pin D?-1
+Add Pin To Net: Unknown Pin: Pin D?-2
+Add Pin To Net: Unknown Pin: Pin J1-42
+Add Pin To Net: Unknown Pin: Pin J1-43
+Add Pin To Net: Unknown Pin: Pin J2-42
+Add Pin To Net: Unknown Pin: Pin J2-43
+Add Pin To Net: Unknown Pin: Pin J3-44
+Add Pin To Net: Unknown Pin: Pin J3-45
+Add Pin To Net: Unknown Pin: Pin J?-1
+Add Pin To Net: Unknown Pin: Pin U3-38
+Add Pin To Net: Unknown Pin: Pin U4-38
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=C12-2
+Added Pin To Net: NetName=NetC3_1 Pin=C13-2
+Added Pin To Net: NetName=NetC3_1 Pin=D11-2
+Added Pin To Net: NetName=NetC3_1 Pin=U2-1
+Added Net: Name=NetC3_1
+Added Member To Class: ClassName=Sheet1 Member=Component C12 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C13 4.7uF
+Add Class Member: Failed to add class member : Component D6 TVS DIODE
+Add Class Member: Failed to add class member : Component D7 TVS DIODE
+Add Class Member: Failed to add class member : Component D8 TVS DIODE
+Add Class Member: Failed to add class member : Component D9 TVS DIODE
+Add Class Member: Failed to add class member : Component D10 TVS DIODE
+Added Member To Class: ClassName=Sheet1 Member=Component D11 DIODE
+Add Class Member: Failed to add class member : Component D? TVS DIODE

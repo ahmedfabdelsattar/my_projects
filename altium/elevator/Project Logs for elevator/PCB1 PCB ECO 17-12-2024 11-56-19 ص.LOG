@@ -1,0 +1,8 @@
+Change Component Comment : Designator=U3 Old Comment=CD4511BE New Comment=7447
+Change Component Designator: OldDesignator= NewDesignator=servo
+Change Component Designator: OldDesignator=L? NewDesignator=ttl
+Change Component Designator: OldDesignator=S? NewDesignator=U_T
+Change Component Designator: OldDesignator=T? NewDesignator=rosetta
+Change Component Designator: OldDesignator=U? NewDesignator=MOT_DRIV
+Added Member To Class: ClassName=Sheet1 Member=Component U? ATMEGA328P-PU
+Added Member To Class: ClassName=Sheet1 Member=Component U_T ultra_sonic
